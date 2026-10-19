@@ -1,27 +1,28 @@
 # Hi, I'm Sukhvansh 👋
 
-I build robots that can see, plan, and move on their own. Most of my work is on robot arms picking up and handling objects, and on mobile robots finding their way around.
-
-At **IIT Mandi**, I've spent most of my time in robotics clubs, hackathons, and research labs.
+I work on robotics and AI, mostly robot arms and mobile robots.
 
 ---
 
 ### 📄 Research
 
-**Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation**
-*Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar, Ravi Prakash*
+**IMBench: A Benchmark for Intuitive Robotic Manipulation** · *CoRL 2026*<br>
+*Anurag Maurya, Sukhvansh Jain, et al.*<br>
+35 robot tasks that test whether AI models understand everyday physics well enough to actually do things with their hands, like using tools, pushing objects aside, or recovering when something slips.<br>
+[Paper (arXiv)](https://arxiv.org/abs/2607.15641) · [Project page](https://imbench.org)
 
-Two robot arms, each with a different simple gripper (one suction cup, one two-finger gripper), working together to do tasks neither could do alone. From a single human demo, the robot decides which arm should do each step and when to pass the object from one hand to the other.
-
+**Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation**<br>
+*Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar, Ravi Prakash*<br>
+Two robot arms with different simple grippers (a suction cup and a two-finger gripper) working together on tasks neither can do alone. From one human demo, the robot decides which arm does each step and when to hand the object over.<br>
 [Paper (arXiv)](https://arxiv.org/abs/2610.23551) · [Project page](https://sukhvansh2004.github.io/Bimanual-Manipulation/)
 
 ---
 
 ### 🏆 Highlights
 
-- 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date.
-- 🚀 **University Rover Challenge 2024** – built and programmed a Mars rover with Team Deimos, IIT Mandi.
-- 🌙 **Space Technology Club, IIT Mandi** – sharpened Chandrayaan-2 images of the Moon using AI.
+- 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date. [Code](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management-)
+- 🚀 **University Rover Challenge 2024** – built and programmed a Mars rover with Team Deimos, IIT Mandi. [Code](https://github.com/Sukhvansh2004/Mars-Rover)
+- 🔊 **Audio Scene Synthesis** – a model that turns a text description into realistic sound, reaching better results with 10× less training than the original. [Code](https://github.com/Sukhvansh2004/Audio-Scene-Synthesis)
 
 ---
 
@@ -29,9 +30,8 @@ Two robot arms, each with a different simple gripper (one suction cup, one two-f
 
 | Project | What it does |
 |---|---|
-| [Warehouse Inventory Robot](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management-) | A four-wheeled robot that moves through a warehouse, reads QR codes, and logs inventory live |
 | [Robosuite ↔ Franka Bridge](https://github.com/Sukhvansh2004/robosuite-franka-ros-bridge) | Lets the same code run on a simulated robot and on two real Franka arms |
-| [Mars Rover](https://github.com/Sukhvansh2004/Mars-Rover) | Software for our rover at the University Rover Challenge 2024 |
+| [Moon Mapping](https://github.com/Sukhvansh2004/Moon-Mapping) | Sharpening Chandrayaan-2 images of the Moon with AI (Space Technology Club, IIT Mandi) |
 | [Robot Self-Localization](https://github.com/Sukhvansh2004/RTAB-Map-Frosthack-Global-Localization) | A robot that figures out where it is using a 3D camera and LiDAR, no human driving needed |
 | [Medical Image Prognosis](https://github.com/Sukhvansh2004/Medical-Image-Prognosis) | Cleans up and aligns brain MRI scans so they can be used to predict disease progress |
 | [DocBot](https://github.com/Sukhvansh2004/DocBot-P22-B) | Upload a PDF and ask questions about it in plain language |
