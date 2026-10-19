@@ -51,7 +51,7 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 
 ### 🏆 Highlights
 
-- 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date. [Code](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management-)
+- 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date. [Code](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management)
 - 🥉 **Bronze medal, Inter IIT Tech Meet 12.0** – rebooking airline passengers when flights get changed or cancelled, solved with both regular and quantum computing. [Code](https://github.com/STAC-IITMandi/Mphasis-Foundation-PS-TEAM_59)
 - 🚀 **University Rover Challenge 2024** – built and programmed a Mars rover with [Team Deimos, IIT Mandi](https://github.com/Team-Deimos-IIT-Mandi).
 - 🔊 **Audio Scene Synthesis** – a model that turns a text description into realistic sound, reaching better results with 10× less training than the original. [Code](https://github.com/Sukhvansh2004/Audio-Scene-Synthesis)
