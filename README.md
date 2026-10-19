@@ -52,6 +52,7 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 ### 🏆 Highlights
 
 - 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date. [Code](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management-)
+- 🥉 **Bronze medal, Inter IIT Tech Meet 12.0** – rebooking airline passengers when flights get changed or cancelled, solved with both regular and quantum computing. [Code](https://github.com/STAC-IITMandi/Mphasis-Foundation-PS-TEAM_59)
 - 🚀 **University Rover Challenge 2024** – built and programmed a Mars rover with [Team Deimos, IIT Mandi](https://github.com/Team-Deimos-IIT-Mandi).
 - 🔊 **Audio Scene Synthesis** – a model that turns a text description into realistic sound, reaching better results with 10× less training than the original. [Code](https://github.com/Sukhvansh2004/Audio-Scene-Synthesis)
 
@@ -61,6 +62,7 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 
 | Project | What it does |
 |---|---|
+| [Robot Swarm](https://github.com/Sukhvansh2004/Centralized-Intelligence-Robot-Swarm) | Inter IIT Tech Meet 13.0: a team of robots that explore and map an unknown place together, and take jobs given in plain English, like "check the backpack at (10, 20)" |
 | [Robosuite ↔ Franka Bridge](https://github.com/Sukhvansh2004/robosuite-franka-ros-bridge) | Lets the same code run on a simulated robot and on two real Franka arms |
 | [Moon Mapping](https://github.com/Sukhvansh2004/Moon-Mapping) | Sharpening Chandrayaan-2 images of the Moon with AI (Space Technology Club, IIT Mandi) |
 | [Robot Self-Localization](https://github.com/Sukhvansh2004/RTAB-Map-Frosthack-Global-Localization) | A robot that figures out where it is using a 3D camera and LiDAR, no human driving needed |
