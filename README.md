@@ -55,7 +55,7 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 - 🏅 **Director's Gold Medal, IIT Mandi (2026)** – for all-round excellence in the graduating B.Tech batch.
 - 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date. [Code](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management)
 - 🥉 **Bronze medal, Inter IIT Tech Meet 12.0** – rebooking airline passengers when flights get changed or cancelled, solved with both regular and quantum computing. [Code](https://github.com/STAC-IITMandi/Mphasis-Foundation-PS-TEAM_59)
-- 🚀 **Team Deimos, IIT Mandi (2023 – 2026)** – Software Lead, then Project Lead of our [Mars rover team](https://github.com/Team-Deimos-IIT-Mandi). Qualified for the Anatolian Rover Challenge 2026.
+- 🚀 **Team Deimos, IIT Mandi (2023 – 2026)** – Joined our [Mars rover team](https://github.com/Team-Deimos-IIT-Mandi) as a software member, then became Software Lead and finally Project Lead. Qualified for the Anatolian Rover Challenge 2026.
 - 🔊 **Audio Scene Synthesis** – a model that turns a text description into realistic sound, reaching better results with 10× less training than the original. [Code](https://github.com/Sukhvansh2004/Audio-Scene-Synthesis)
 
 ---
