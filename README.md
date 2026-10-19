@@ -7,6 +7,7 @@
 I work on robotics and AI, mostly robot arms and mobile robots.
 
 <a href="https://www.linkedin.com/in/sukhvansh-jain-1b2506273/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=-YelU24AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="https://huggingface.co/Sukhvansh"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="#-research"><img src="https://img.shields.io/badge/Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
 
