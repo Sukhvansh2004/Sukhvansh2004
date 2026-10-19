@@ -7,6 +7,7 @@
 I work on robotics and AI, mostly robot arms and mobile robots.
 
 <a href="https://www.linkedin.com/in/sukhvansh-jain-1b2506273/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://huggingface.co/Sukhvansh"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="#-research"><img src="https://img.shields.io/badge/Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
 
 </div>
@@ -15,15 +16,36 @@ I work on robotics and AI, mostly robot arms and mobile robots.
 
 ### 📄 Research
 
-**IMBench: A Benchmark for Intuitive Robotic Manipulation** · *CoRL 2026*<br>
-*Anurag Maurya, Sukhvansh Jain, et al.*<br>
-35 robot tasks that test whether AI models understand everyday physics well enough to actually do things with their hands, like using tools, pushing objects aside, or recovering when something slips.<br>
-[Paper (arXiv)](https://arxiv.org/abs/2607.15641) · [Project page](https://imbench.org)
+<table>
+<tr>
+<td width="42%"><a href="https://imbench.org"><img src="assets/imbench.gif" alt="IMBench tasks" width="100%" /></a></td>
+<td>
+
+**IMBench: A Benchmark for Intuitive Robotic Manipulation**<br>
+<img src="https://img.shields.io/badge/CoRL-2026-6C63FF?style=flat-square" /><br>
+*Anurag Maurya, Sukhvansh Jain, et al.*
+
+35 robot tasks that test whether AI models understand everyday physics well enough to actually do things with their hands, like using tools, pushing objects aside, or recovering when something slips.
+
+[Paper](https://arxiv.org/abs/2607.15641) · [Project page](https://imbench.org)
+
+</td>
+</tr>
+<tr>
+<td width="42%"><a href="https://sukhvansh2004.github.io/Bimanual-Manipulation/"><img src="assets/bimanual.gif" alt="Two robot arms handing over a mug" width="100%" /></a></td>
+<td>
 
 **Embodiment-Aware Planning for Heterogeneous Bimanual Manipulation**<br>
-*Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar, Ravi Prakash*<br>
-Two robot arms with different simple grippers (a suction cup and a two-finger gripper) working together on tasks neither can do alone. From one human demo, the robot decides which arm does each step and when to hand the object over.<br>
-[Paper (arXiv)](https://arxiv.org/abs/2610.23551) · [Project page](https://sukhvansh2004.github.io/Bimanual-Manipulation/)
+<img src="https://img.shields.io/badge/arXiv-2610.23551-B31B1B?style=flat-square" /><br>
+*Sukhvansh Jain, Anurag Maurya, Shivam Vats, Narendra Kumar Dhar, Ravi Prakash*
+
+Two robot arms with different simple grippers (a suction cup and a two-finger gripper) working together on tasks neither can do alone. From one human demo, the robot decides which arm does each step and when to hand the object over.
+
+[Paper](https://arxiv.org/abs/2610.23551) · [Project page](https://sukhvansh2004.github.io/Bimanual-Manipulation/)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,17 +72,13 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 ### 🧰 Tools I use
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/MuJoCo-1F6FEB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+<a href="https://www.ros.org"><img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" /></a>
+<a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+<a href="https://mujoco.org"><img src="https://img.shields.io/badge/MuJoCo-1F6FEB?style=for-the-badge&logoColor=white" alt="MuJoCo" /></a>
+<a href="https://gazebosim.org"><img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" /></a>
+<a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </p>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhvansh2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
