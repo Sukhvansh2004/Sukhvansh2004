@@ -4,8 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Teaching+two+robot+arms+to+work+together;Building+robots+that+find+their+own+way;Turning+research+ideas+into+real+robots" alt="Typing intro" />
 
-I work on robotics and AI, mostly robot arms and mobile robots.
+AI Engineer at **Neomanav Robotics**, teaching humanoid robots new skills. IIT Mandi graduate.
 
+<a href="https://sukhvansh2004.github.io"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sukhvansh-jain-1b2506273/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=-YelU24AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="https://huggingface.co/Sukhvansh"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
@@ -51,6 +52,7 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 
 ### 🏆 Highlights
 
+- 🏅 **Director's Gold Medal, IIT Mandi (2026)** – for all-round excellence in the graduating B.Tech batch.
 - 🥉 **Bronze medal, Inter IIT Tech Meet 14.0** – a robot that drives around a warehouse on its own, scans shelves, and keeps the stock list up to date. [Code](https://github.com/Sukhvansh2004/WareHouse-Inventory-Management)
 - 🥉 **Bronze medal, Inter IIT Tech Meet 12.0** – rebooking airline passengers when flights get changed or cancelled, solved with both regular and quantum computing. [Code](https://github.com/STAC-IITMandi/Mphasis-Foundation-PS-TEAM_59)
 - 🚀 **University Rover Challenge 2024** – built and programmed a Mars rover with [Team Deimos, IIT Mandi](https://github.com/Team-Deimos-IIT-Mandi).
