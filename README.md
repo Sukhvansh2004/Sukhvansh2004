@@ -81,4 +81,22 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 <a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </p>
 
+---
+
+### 📈 Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sukhvansh2004&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake-dark.svg" />
+</picture>
+
+<sub>💼 Since April 2026, most of my work happens on my work account, <a href="https://github.com/sukhvansh-manav">@sukhvansh-manav</a>.</sub>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
