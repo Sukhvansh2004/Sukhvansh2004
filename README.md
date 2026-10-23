@@ -104,7 +104,9 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake-dark.svg" />
 </picture>
 
-<sub>💼 Since April 2026, most of my work happens on my work account, <a href="https://github.com/sukhvansh-manav">@sukhvansh-manav</a>.</sub>
+<sub>💼 Since April 2026, most of my work happens on my work account, <a href="https://github.com/sukhvansh-manav">@sukhvansh-manav</a> (Neomanav Robotics):</sub>
+
+<a href="https://github.com/sukhvansh-manav"><img src="https://streak-stats.demolab.com?user=sukhvansh-manav&theme=tokyonight&hide_border=true&background=0D1117" alt="Work account contribution streak" height="165" /></a>
 
 </div>
 
