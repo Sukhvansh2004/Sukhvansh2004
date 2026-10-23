@@ -42,7 +42,7 @@ AI Engineer at **Neomanav Robotics**, teaching humanoid robots new skills. IIT M
 
 Two robot arms with different simple grippers (a suction cup and a two-finger gripper) working together on tasks neither can do alone. From one human demo, the robot decides which arm does each step and when to hand the object over.
 
-[Paper](https://arxiv.org/abs/2610.23551) · [Project page](https://sukhvansh2004.github.io/Bimanual-Manipulation/)
+[Paper](https://arxiv.org/abs/2610.23551) · [Project page](https://sukhvansh2004.github.io/Bimanual-Manipulation/) · [Code](https://github.com/Sukhvansh2004/Bimanual-Manipulation)
 
 </td>
 </tr>
