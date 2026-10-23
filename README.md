@@ -96,6 +96,13 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhvansh2004&theme=tokyonight" alt="Top languages by commit" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhvansh2004&layout=compact&langs_count=6&exclude_repo=GeoLLM,Centralized-Intelligence-Robot-Swarm,GBplanner-Multi-Robot-Exploration-Navigation&hide=html,jupyter%20notebook,makefile,cmake,css,assembly&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" height="165" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukhvansh2004&theme=tokyonight" alt="Profile summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sukhvansh2004&theme=tokyonight" alt="Top languages by repo" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sukhvansh2004&theme=tokyonight&utcOffset=5.5" alt="Commits by hour (IST)" height="165" />
+
+<a href="https://github.com/Sukhvansh2004/Bimanual-Manipulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhvansh2004&repo=Bimanual-Manipulation&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bimanual-Manipulation" /></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake.svg" />
