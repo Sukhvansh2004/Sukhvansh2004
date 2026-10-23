@@ -22,6 +22,14 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Work account: its public calendar includes private contribution counts.
+      - uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: sukhvansh-manav
+          outputs: |
+            dist/work-snake.svg
+            dist/work-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output

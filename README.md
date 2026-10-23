@@ -108,6 +108,12 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 
 <a href="https://github.com/sukhvansh-manav"><img src="https://streak-stats.demolab.com?user=sukhvansh-manav&theme=tokyonight&hide_border=true&background=0D1117" alt="Work account contribution streak" height="165" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/work-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/work-snake.svg" />
+  <img alt="Work account contribution snake" src="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/work-snake-dark.svg" />
+</picture>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
