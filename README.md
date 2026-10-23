@@ -93,6 +93,7 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sukhvansh2004&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=Sukhvansh2004&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukhvansh2004&theme=tokyonight" alt="Top languages by commit" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhvansh2004&layout=compact&langs_count=6&exclude_repo=GeoLLM,Centralized-Intelligence-Robot-Swarm,GBplanner-Multi-Robot-Exploration-Navigation&hide=html,jupyter%20notebook,makefile,cmake,css,assembly&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" height="165" />
 
 <picture>
