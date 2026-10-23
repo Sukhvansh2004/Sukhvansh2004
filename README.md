@@ -91,7 +91,8 @@ Two robot arms with different simple grippers (a suction cup and a two-finger gr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sukhvansh2004&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sukhvansh2004&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=Sukhvansh2004&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" height="165" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sukhvansh2004/Sukhvansh2004/output/github-snake-dark.svg" />
